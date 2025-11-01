@@ -9,11 +9,13 @@
   },
   "dependencies": {
     "next": "latest",
+    "playwright": "^1.38.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "playwright": "^1.38.0"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^24.9.2",
+    "@types/react": "19.2.2",
     "typescript": "^5.5.0"
   }
 }
