@@ -10,6 +10,7 @@
   "dependencies": {
     "next": "latest",
     "playwright": "^1.38.0",
+    "puppeteer": "^24.27.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
